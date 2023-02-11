@@ -1,4 +1,4 @@
-Garmin 530 GPS Unit
+# Garmin 530 GPS Unit
 
 In this directory, you'll find the files required to build your own fully functional Garmin 530 GPS unit for use with X-Plane and Microsoft Flight Simulator 2020.  I use this unit successfully with both X-Plane 11 and 12, and it also works seamlessly with FS 2020.  With the exception of a few purchased electronic components and one piece of software, all parts for this unit are 3D printed out of standard PLA filament.
 
