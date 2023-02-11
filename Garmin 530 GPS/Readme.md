@@ -54,8 +54,8 @@ Once you have all of your parts required for the build, You're ready to 3D print
     - For the buttons:  There are four pins on each one.  You only need to use one side.  One leg to ground, the other to a digital pin
       on the Arduino. Suggestion:  Wire all of the grounds in series, so you only have one leg to ground for all buttons.
     - For the volume pots:  Left pin to 5v, middle to analog pin on the Arduino, Right to ground.
-    - For the encoders:  Five pins on each.  1 to 5v, 1 to ground, and three go to digital pins (one for step up, one for down, and one
-      for the push button.
+    - For the encoders:  Five pins on each.  1 to 5v, 1 to ground, and three go to digital pins (one for the inner encoder, one for 
+      the outer encoder, and one for the push button.
       
 Arduino Notes:
 
