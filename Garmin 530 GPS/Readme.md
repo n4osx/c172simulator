@@ -70,7 +70,7 @@ panel. (I'll cover this process in a separate video.)  Once you add it, you'll s
 for each button and control so that Air Manager knows what inputs to look for for each signal.  It will then work its magic and send all
 of these inputs to your simulator when you use them.   Again, I will cover this process in great detail in a video coming soon.
 
-## How does the Garmin 530 screen in the sim display on my unit?##
+## How does the Garmin 530 screen in the sim display on my unit?
 
 As most of you already know, you can 'pop out' the 530 and 430 display screens in both X-Plane and FS 2020.  Once you pop these out, you
 simply drag the window to the 5" display on your new GPS unit.  X-Plane will remember its location automatically for each aircraft.  I 
