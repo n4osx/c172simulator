@@ -15,8 +15,13 @@ I have a Youtube channel which goes along with this repository, in which you wil
 and instructional videos as to how various components are constructed.  Please feel free to use these videos as
 'how-to's' if you'd like to replicate something I've done, or just as inspiration to modify them to your own liking.
 
+Scott's Youtube Channel:  https://www.youtube.com/@n4osx
+
 As this repository is just under construction, please bear with me as I get the resources assembled and uploaded 
 over the next few weeks.
+
+If you find these resources useful, I do accept tips with great appreciation via PayPal if you are so inclined.
+Please do note that they are not required, but greatly appreciated! https://www.paypal.com/paypalme/swc830
 
 Good luck on your sim building journey - and happy flying! :)
 
