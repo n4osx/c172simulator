@@ -21,7 +21,7 @@ As this repository is just under construction, please bear with me as I get the 
 over the next few weeks.
 
 If you find these resources useful, I do accept tips with great appreciation via PayPal if you are so inclined.
-Please do note that they are not required, but greatly appreciated! https://www.paypal.com/paypalme/swc830
+Please do note that they are not required, but greatly appreciated! https://www.paypalme/swc830
 
 Good luck on your sim building journey - and happy flying! :)
 
