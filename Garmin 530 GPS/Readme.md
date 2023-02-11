@@ -56,6 +56,7 @@ Once you have all of your parts required for the build, You're ready to 3D print
     - For the volume pots:  Left pin to 5v, middle to analog pin on the Arduino, Right to ground.
     - For the encoders:  Five pins on each.  1 to 5v, 1 to ground, and three go to digital pins (one for the inner encoder, one for 
       the outer encoder, and one for the push button.
+8.  Once your soldering is done, use a small dab of hot glue to attach your 3D printed buttons to the face of the push buttons mounted in your unit's frame.  Just a small dab is all that you need.  This works well, as should you ever need to replace a button, you can pop them off without damaging the electronic button below.
       
 ## Arduino Notes
 
