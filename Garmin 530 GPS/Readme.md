@@ -4,7 +4,7 @@ In this directory, you'll find the files required to build your own fully functi
 
 This unit interfaces with your simulator via an Arduino 2560 connected to your PC via a USB cable. Software interaction is handled completely through SimInnovations' Air Manager application.
 
-General overview of construction steps:
+## General overview of construction steps
 
 Once the unit is assembled (details on that are contained in a separate instruction file), the general steps to get it working are as follows (details on each process will be provided):
 
@@ -14,7 +14,7 @@ Once the unit is assembled (details on that are contained in a separate instruct
 4.  Map the buttons and encoders to their associated pins on the Arduino 2560.
 5.  Provide power to the 5" HDMI display in the unit and connect as a display on to your PC.
 
-Bill of Materials for Electronics Required:
+## Bill of Materials for Electronics Required
 
 Aquire the following components you'll need for the build.  Vendor links are provided where I purchased them:
 
@@ -57,7 +57,7 @@ Once you have all of your parts required for the build, You're ready to 3D print
     - For the encoders:  Five pins on each.  1 to 5v, 1 to ground, and three go to digital pins (one for the inner encoder, one for 
       the outer encoder, and one for the push button.
       
-Arduino Notes:
+## Arduino Notes
 
 Which pins you use on the Arduino are entirely up to you.  You're only going to have four different types of connection for each component:
 - 5V pin where power is needed.  (pots and encoders usually need this.)
@@ -71,10 +71,11 @@ for each button and control so that Air Manager knows what inputs to look for fo
 of these inputs to your simulator when you use them.   Again, I will cover this process in great detail in a video coming soon.
 
 As noted, I'm just now getting all of this information assembled.  Look for more updates shortly, and if you have any questions at the moment,
-please feel free to contact me at info@n4osx.com.
+please feel free to contact me at my public email address on my Github profile.
 
-Happy building!
--Scott
-2/10/2023
+**Happy building!**
+
+*-Scott
+2/10/2023*
 
     
