@@ -18,7 +18,7 @@ and instructional videos as to how various components are constructed.  Please f
 Scott's Youtube Channel:  https://www.youtube.com/@n4osx
 
 As this repository is just under construction, please bear with me as I get the resources assembled and uploaded 
-over the next few weeks.
+over the next few weeks.  As you can imagine, there are quite a few files and resources I'm pulling together!
 
 If you find these resources useful, I do accept tips with great appreciation via PayPal if you are so inclined.
 Please do note that they are not required, but greatly appreciated! https://www.paypal.me/swc830
