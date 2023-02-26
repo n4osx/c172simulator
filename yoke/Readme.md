@@ -1,4 +1,4 @@
-3D Printed Yoke Notes and Instructions
+#3D Printed Yoke Notes and Instructions#
 
 In this folder, you'll find the files for printing the control yoke you'll see in my simulator.  The yoke itself
 is a design based on a Cessna 152 - I chose this primary because i found the design attractive, and it took up
