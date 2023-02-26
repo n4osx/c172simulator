@@ -1,11 +1,11 @@
-#3D Printed Yoke Notes and Instructions#
+# 3D Printed Yoke Notes and Instructions #
 
 In this folder, you'll find the files for printing the control yoke you'll see in my simulator.  The yoke itself
 is a design based on a Cessna 152 - I chose this primary because i found the design attractive, and it took up
 a bit less space to give more room in the cockpit.  it also prints well, and is easy to assemble when complete
 with a bit of 5-minute epoxy.
 
-Files Required:
+## Files Required: ##
 
 - C152 Yoke Back - Left.gcode
 - C152 Yoke Back - Right.gcode
